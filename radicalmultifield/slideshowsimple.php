@@ -18,7 +18,7 @@ JLoader::register(
 );
 
 /**
- * Class JFormFieldRadicalmultifieldslideshow
+ * Class JFormFieldRadicalmultifield_slideshowsimple
  */
 class JFormFieldRadicalmultifield_slideshowsimple extends JFormFieldRadicalmultifield
 {

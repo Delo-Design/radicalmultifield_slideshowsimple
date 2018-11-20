@@ -72,7 +72,7 @@ $id = rand(11111, 99999);
 
         /*#region responsive code begin*/
 
-        var MAX_WIDTH = 600;
+        MAX_WIDTH = <?= $field->fieldparams->get('maxWidth', '0'); ?>;
 
         function ScaleSlider() {
             var containerElement = jssor_<?= $id ?>_slider.$Elmt.parentNode;

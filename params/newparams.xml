@@ -1,0 +1,5 @@
+<field name="maxWidth"
+       label="PLG_RADICALMILTIFIELD_SLIDESHOWSIMPLE_MAXWIDTH_LABEL"
+       type="number"
+       default="600"
+/>

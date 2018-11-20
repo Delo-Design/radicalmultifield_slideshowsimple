@@ -25,6 +25,7 @@
 
 	<files>
 		<filename plugin="slideshowsimple">LICENSE</filename>
+		<folder>radicalmultifield</folder>
 		<folder>language</folder>
 		<folder>params</folder>
 		<folder>tmpl</folder>
