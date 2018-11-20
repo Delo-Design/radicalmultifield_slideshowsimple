@@ -18,7 +18,7 @@
 	</languages>
 
 	<updateservers>
-		<server type="extension" priority="1" name="Radical MultiField">
+		<server type="extension" priority="1" name="Radical MultiField simple slideshow">
 			https://hika.su/update/free/radicalmultfield/plg_slideshowsimple.xml
 		</server>
 	</updateservers>
