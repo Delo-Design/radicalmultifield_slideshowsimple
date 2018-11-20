@@ -1,3 +1,4 @@
+/*jssor slider loading skin spin css*/
 .jssorl-009-spin img {
     animation-name: jssorl-009-spin;
     animation-duration: 1.6s;
@@ -10,17 +11,16 @@
     to { transform: rotate(360deg); }
 }
 
-/*jssor slider bullet skin 072 css*/
-.jssorb072 .i {position:absolute;color:#000;text-align:center;cursor:pointer;z-index:0;}
-.jssorb072 .i .b {fill:#fff;opacity:.3;}
-.jssorb072 .i:hover {opacity:.7;}
-.jssorb072 .iav {color:#fff;}
-.jssorb072 .iav .b {fill:#000;opacity:.5;}
-.jssorb072 .i.idn {opacity:.3;}
+/*jssor slider bullet skin 051 css*/
+.jssorb051 .i {position:absolute;cursor:pointer;}
+.jssorb051 .i .b {fill:#fff;fill-opacity:0.5;}
+.jssorb051 .i:hover .b {fill-opacity:.7;}
+.jssorb051 .iav .b {fill-opacity: 1;}
+.jssorb051 .i.idn {opacity:.3;}
 
-/*jssor slider arrow skin 073 css*/
-.jssora073 {display:block;position:absolute;cursor:pointer;}
-.jssora073 .a {fill:#ddd;fill-opacity:.7;stroke:#000;stroke-width:160;stroke-miterlimit:10;stroke-opacity:.7;}
-.jssora073:hover {opacity:.8;}
-.jssora073.jssora073dn {opacity:.4;}
-.jssora073.jssora073ds {opacity:.3;pointer-events:none;}
+/*jssor slider arrow skin 051 css*/
+.jssora051 {display:block;position:absolute;cursor:pointer;}
+.jssora051 .a {fill:none;stroke:#fff;stroke-width:360;stroke-miterlimit:10;}
+.jssora051:hover {opacity:.8;}
+.jssora051.jssora051dn {opacity:.5;}
+.jssora051.jssora051ds {opacity:.3;pointer-events:none;}
