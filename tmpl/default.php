@@ -83,6 +83,7 @@ $id = rand(11111, 99999);
                 var expectedWidth = Math.min(MAX_WIDTH || containerWidth, containerWidth);
 
                 jssor_<?= $id ?>_slider.$ScaleWidth(expectedWidth);
+
             }
             else {
                 window.setTimeout(ScaleSlider, 30);
