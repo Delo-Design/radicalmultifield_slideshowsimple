@@ -41,7 +41,7 @@
             />
 
             <field name="filesimportmaxsize"
-                   default="2"
+                   default="10"
             />
 
 
