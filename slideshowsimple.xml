@@ -19,7 +19,7 @@
 
 	<updateservers>
 		<server type="extension" priority="1" name="Radical MultiField slideshow simple">
-			https://hika.su/update/free/radicalmultfield/plg_slideshowsimple.xml
+			https://hika.su/update/free/radicalmultifield/plg_slideshowsimple.xml
 		</server>
 	</updateservers>
 
