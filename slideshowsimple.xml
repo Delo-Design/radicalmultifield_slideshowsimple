@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension type="plugin" version="3.8" group="radicalmultifield" method="upgrade">
-	<name>PLG_RADICALMILTIFIELDSLIDESHOW</name>
+	<name>PLG_RADICALMILTIFIELDSLIDESHOWSIMPLE</name>
 	<creationDate>17.11.2018</creationDate>
 	<author>delo-design.ru</author>
 	<authorEmail>info@delo-design.ru</authorEmail>
@@ -8,7 +8,7 @@
 	<copyright>Copyright (C) 2018 "Delo Design". All rights reserved.</copyright>
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
 	<version>1.0</version>
-	<description>PLG_RADICALMILTIFIELDSLIDESHOW_XML_DESCRIPTION</description>
+	<description>PLG_RADICALMILTIFIELDSLIDESHOWSIMPLE_XML_DESCRIPTION</description>
 
 	<languages folder="language">
 		<language tag="en-GB">en-GB/en-GB.plg_radicalmultifield_slideshowsimple.ini</language>
