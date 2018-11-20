@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="plugin" version="3.8" group="radicalmultifield" method="upgrade">
+	<name>PLG_RADICALMILTIFIELDSLIDESHOW</name>
+	<creationDate>17.11.2018</creationDate>
+	<author>delo-design.ru</author>
+	<authorEmail>info@delo-design.ru</authorEmail>
+	<authorUrl>https://delo-design.ru</authorUrl>
+	<copyright>Copyright (C) 2018 "Delo Design". All rights reserved.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<version>1.0</version>
+	<description>PLG_RADICALMILTIFIELDSLIDESHOW_XML_DESCRIPTION</description>
+
+	<languages folder="language">
+		<language tag="en-GB">en-GB/en-GB.plg_radicalmultifield_slideshowsimple.ini</language>
+		<language tag="en-GB">en-GB/en-GB.plg_radicalmultifield_slideshowsimple.sys.ini</language>
+		<language tag="ru-RU">ru-RU/ru-RU.plg_radicalmultifield_slideshowsimple.ini</language>
+		<language tag="ru-RU">ru-RU/ru-RU.plg_radicalmultifield_slideshowsimple.sys.ini</language>
+	</languages>
+
+	<updateservers>
+		<server type="extension" priority="1" name="Radical MultiField">
+			https://hika.su/update/free/radicalmultfield/plg_audioplayer.xml
+		</server>
+	</updateservers>
+
+	<files>
+		<filename plugin="slideshowsimple">LICENSE</filename>
+		<folder>language</folder>
+		<folder>params</folder>
+		<folder>tmpl</folder>
+	</files>
+
+	<media folder="media" destination="plg_radicalmultifield_slideshowsimple">
+		<folder>css</folder>
+		<folder>js</folder>
+		<folder>img</folder>
+	</media>
+
+</extension>
