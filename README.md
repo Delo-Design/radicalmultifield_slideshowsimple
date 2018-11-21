@@ -2,7 +2,7 @@
 
 Адаптивное слайдшоу для Joomla!
 
-Демо https://hika.su/primer-prostogo-slajdshou
+Демо https://hika.su/rasshireniya/raficalmultfild/primer-prostogo-slajdshou
 
 Установка и настройка
 - Скачайте последний релиз [Перейти к релизам](https://github.com/Delo-Design/radicalmultifield_slideshowsimple/releases)
