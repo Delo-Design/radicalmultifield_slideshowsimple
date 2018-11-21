@@ -76,7 +76,7 @@
             />
 
             <field name="listtype"
-                   default='{"listtype0":{"name":"alt","title":"\u043e\u043f\u0438\u0441\u0430\u043d\u0438\u0435 \u043a\u0430\u0440\u0442\u0438\u043d\u043a\u0438","type":"text","required":"0","listview":"list","multiple":"0","options":"","attrs":""},"listtype1":{"name":"image","title":"\u043a\u0430\u0440\u0442\u0438\u043d\u043a\u0430","type":"media","required":"0","listview":"list","multiple":"0","options":"","attrs":""},"listtype2":{"name":"map","title":"\u043a\u0430\u0440\u0442\u0430","type":"text","required":"0","listview":"list","multiple":"0","options":"","attrs":""}}'
+                   default='{"listtype0":{"name":"alt","title":"\u041e\u043f\u0438\u0441\u0430\u043d\u0438\u0435 \u043a\u0430\u0440\u0442\u0438\u043d\u043a\u0438","type":"text","required":"0","listview":"list","multiple":"0","options":"","attrs":""},"listtype1":{"name":"image","title":"\u041a\u0430\u0440\u0442\u0438\u043d\u043a\u0430","type":"media","required":"0","listview":"list","multiple":"0","options":"","attrs":""}}'
             />
 
         </fieldset>
